@@ -465,7 +465,7 @@ Pull requests are welcome. See [Contributing](CONTRIBUTING.md) for hints. Closed
 #### MIUI
 
 * [Aura](https://github.com/tgvdufuture/Aura) - Custom RGB notification LED app for POCO X8 Pro with per-app, per-contact, and per-group colors and animations `MIT`
-* [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) - 5G shortcut switch for HyperOS/MIUI `GPL-3.0` [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
+* [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) `Paid` 💰 - 5G shortcut switch for HyperOS/MIUI `GPL-3.0` [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
 * [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) - Turn off MIUI ads with minimal cost `Apache-2.0`
 * [HyperOS FCM Fix](https://github.com/dingwen07/hyperos-fcm-fix) - Keeps Google Play services unrestricted on HyperOS so FCM push notifications arrive on time `GPL-3.0`
 * [HyperOSUnfcker](https://github.com/Enki013/hyperosunfcker) - Unlocks hidden performance, display, memory, battery, and visual settings on HyperOS/MIUI devices `LGPL-3.0`
